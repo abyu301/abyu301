@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm abyu ezezew</h1>
 <h3 align="center">A passionate frontend and backend developer from Calgary-Alberta</h3>
 
-[![MasterHead](https://img.freepik.com/free-vector/programmers-day-banner-design_1308-114298.jpg?w=740&t=st=1707296832~exp=1707297432~hmac=9ae7faf3f198bd97fc3f5b3a7d3a8732fc7c18897b340e2de067744446a3194e)](https://rishavchanda.io)
-<h2 align="center" >Click 👆 to see My Portfolio 🏅</h2>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![MasterHead](https://img.freepik.com/premium-vector/web-development-concept-isometric-landing-page-team-develops-optimizes-layout-site_9209-7568.jpg)](https://www.abyu.online/)
+
+<h2 align="center">Click 👆 to see Portfolio 🏅</h2>
+
+<a href="https://www.abyu.online/" target="_blank" rel="noopener noreferrer">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abyu301&label=Profile%20views&color=0e75b6&style=flat" alt="abyu301" /> </p>
 
