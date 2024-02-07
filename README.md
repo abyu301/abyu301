@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm abyu ezezew</h1>
 <h3 align="center">A passionate frontend and backend developer from Calgary-Alberta</h3>
 
+[![MasterHead](https://img.freepik.com/free-vector/programmers-day-banner-design_1308-114298.jpg?w=740&t=st=1707296832~exp=1707297432~hmac=9ae7faf3f198bd97fc3f5b3a7d3a8732fc7c18897b340e2de067744446a3194e)]
+
 [![MasterHead](https://img.freepik.com/premium-vector/web-development-concept-isometric-landing-page-team-develops-optimizes-layout-site_9209-7568.jpg)](https://www.abyu.online/)
 
 <h2 align="center">Click 👆 to see Portfolio 🏅</h2>
