@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **Abyuamsalu27@gmail.com**
 
-- 📄 Know about my experiences [https://www.abyu.online/assets/document/my-Resume.pdf](https://www.abyu.online/assets/document/my-Resume.pdf)
+- 📄 Know about my experiences [https://www.abbyu.online/assets/document/my-Resume.pdf](https://www.abbyu.online/assets/document/my-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
