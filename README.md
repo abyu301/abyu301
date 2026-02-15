@@ -7,7 +7,7 @@
 
 <h2 align="center">Click 👆 to see Portfolio 🏅</h2>
 
-<a href="https://www.abyu.online/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.abbyu.online/" target="_blank" rel="noopener noreferrer">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </a>
 
