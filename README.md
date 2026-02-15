@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Python and React Native**
 
-- 👨‍💻 All of my projects are available at [abyu.online](abyu.online)
+- 👨‍💻 All of my projects are available at [abbyu.online](abbyu.online)
 
 - 💬 Ask me about **react, Node, JavaScript**
 
